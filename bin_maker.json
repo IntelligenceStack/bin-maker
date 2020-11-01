@@ -1,0 +1,6 @@
+{
+  "exclude_modules": [],
+  "exclude_files": [],
+  "with_scikit": "false",
+  "with_statics_model": "false"
+}
